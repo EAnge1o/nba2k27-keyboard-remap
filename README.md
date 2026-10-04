@@ -1,5 +1,9 @@
 # NBA 2K27 键盘自定义（Keyboard Remap）
 
+[![Go](https://img.shields.io/badge/Go-1.27%2B-00ADD8?logo=go&logoColor=white)](https://go.dev)
+[![Windows](https://img.shields.io/badge/Windows-only-0078D6?logo=windows&logoColor=white)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 ## 为什么做这个？
 
 NBA 2K27 发布后，**游戏内部的键位设置存在 bug，无法正常自定义按键**。
